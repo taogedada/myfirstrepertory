@@ -8,7 +8,7 @@ public class ConsulTest {
 
     @RequestMapping("hello")
     public String getResult(){
-        return "hello3";
+        return "hello laoshen";
     }
 
 
