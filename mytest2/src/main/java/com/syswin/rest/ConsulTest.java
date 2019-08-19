@@ -8,7 +8,8 @@ public class ConsulTest {
 
     @RequestMapping("hello")
     public String getResult(){
-        int a = 1;
+        int b = 2;
+        int d = 4;
         return "hello laoshentest";
     }
 
