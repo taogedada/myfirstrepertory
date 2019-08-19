@@ -9,6 +9,7 @@ public class ConsulTest {
     @RequestMapping("hello")
     public String getResult(){
         int b = 2;
+        int c = 3;
         return "hello laoshentest";
     }
 
