@@ -10,6 +10,7 @@ public class ConsulTest {
     public String getResult(){
         int b = 2;
         int c= 3;
+        int d =5;
         return "hello laoshentest";
     }
 
