@@ -11,6 +11,7 @@ public class ConsulTest {
         int b = 2;
         int c= 3;
         int d =5;
+        int z = 6;
         return "hello laoshentest";
     }
 
