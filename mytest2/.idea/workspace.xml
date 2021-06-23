@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="090e3817-4167-41a3-90f2-f3fd865682a5" name="Default Changelist" comment="" />
+    <list default="true" id="090e3817-4167-41a3-90f2-f3fd865682a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/syswin/rest/ConsulTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/syswin/rest/ConsulTest.java" afterDir="false" />
+    </list>
+    <list id="87a22154-d5c9-4c27-8eba-1cf7b1f859c2" name="Revert &quot;111&quot;" comment="Revert &quot;111&quot;&#10;&#10;This reverts commit ee92cc1f">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +32,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -50,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624419209282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="111">
+      <created>1624433021742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624433021742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,17 +83,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="Revert &quot;111&quot;&#10;&#10;This reverts commit ee92cc1f" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;111&quot;&#10;&#10;This reverts commit ee92cc1f" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1624419442295">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1624419442295" />
-    <state x="499" y="74" key="RollbackChangesDialog" timestamp="1624432957732">
+    <state x="129" y="55" width="1092" height="610" key="DiffContextDialog" timestamp="1624433277629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="499" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1624432957732" />
+    <state x="129" y="55" width="1092" height="610" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1624433277629" />
+    <state x="496" y="74" key="RollbackChangesDialog" timestamp="1624433151639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1624433151639" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1624419302961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -88,5 +107,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1624419462758" />
+    <state x="364" y="155" key="git4idea.merge.GitPullDialog" timestamp="1624433263660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="155" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1624433263660" />
   </component>
 </project>
